@@ -4,4 +4,4 @@ git add . //เลือกไฟล์ที่จะ push ไฟล์ไป�
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Pimmy123/TestNexjs.git
-git push -u origin main
+git push -u origin main >> คำสั้งในการ upload ไฟล์
